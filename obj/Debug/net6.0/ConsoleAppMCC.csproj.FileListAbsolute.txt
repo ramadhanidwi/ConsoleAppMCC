@@ -1,0 +1,15 @@
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\bin\Debug\net6.0\ConsoleAppMCC.exe
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\bin\Debug\net6.0\ConsoleAppMCC.deps.json
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\bin\Debug\net6.0\ConsoleAppMCC.runtimeconfig.json
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\bin\Debug\net6.0\ConsoleAppMCC.dll
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\bin\Debug\net6.0\ConsoleAppMCC.pdb
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\obj\Debug\net6.0\ConsoleAppMCC.csproj.AssemblyReference.cache
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\obj\Debug\net6.0\ConsoleAppMCC.GeneratedMSBuildEditorConfig.editorconfig
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\obj\Debug\net6.0\ConsoleAppMCC.AssemblyInfoInputs.cache
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\obj\Debug\net6.0\ConsoleAppMCC.AssemblyInfo.cs
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\obj\Debug\net6.0\ConsoleAppMCC.csproj.CoreCompileInputs.cache
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\obj\Debug\net6.0\ConsoleAppMCC.dll
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\obj\Debug\net6.0\refint\ConsoleAppMCC.dll
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\obj\Debug\net6.0\ConsoleAppMCC.pdb
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\obj\Debug\net6.0\ConsoleAppMCC.genruntimeconfig.cache
+D:\KERJA\MCC\Pemrograman\day 4\Challange\ConsoleAppMCC\ConsoleAppMCC\obj\Debug\net6.0\ref\ConsoleAppMCC.dll
